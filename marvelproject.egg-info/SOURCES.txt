@@ -1,0 +1,9 @@
+setup.py
+marvel_package/__init__.py
+marvel_package/marvel_api.py
+marvel_package/utils.py
+marvelproject.egg-info/PKG-INFO
+marvelproject.egg-info/SOURCES.txt
+marvelproject.egg-info/dependency_links.txt
+marvelproject.egg-info/requires.txt
+marvelproject.egg-info/top_level.txt

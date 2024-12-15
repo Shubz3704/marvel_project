@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: marvelproject
+Version: 1.0.0
+Summary: A Marvel API client to fetch characters using Streamlit.
+Author: Shubham Mane
